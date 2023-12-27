@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>sap-gui</id>
+    <version>8000.1.2.1162</version>
+    <title>sap-gui</title>
+    <authors>sen.yang</authors>
+    <owners>pauby,Ethan J. Brown,Olivier Martin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sap-gui</description>
+    <summary>sap-gui</summary>
+    <copyright>sap-gui</copyright>
+    <tags>sap-gui</tags>
+  </metadata>
+</package>
